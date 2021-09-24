@@ -1,2 +1,2 @@
-const sum = require("./calculator");
+import sum from "./calculator";
 console.log(sum(2, 3));
